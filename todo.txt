@@ -1,0 +1,11 @@
+- Raw pointers
+tudo em lib? - make file build
+esquece - minesweeper timer
+OK - minesweeper mine flags and count
+- change libs at runtime
+- documentation
+- menus
+aymen? - name field menus
+- next graphic
+- next game
+OK (ncurses) - restart 
